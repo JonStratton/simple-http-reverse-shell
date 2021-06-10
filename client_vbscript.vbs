@@ -1,4 +1,4 @@
-URL = "http://192.168.1.235:5000"
+URL = "http://192.168.2.100:5000"
 dim xHttp, objShell, objCmdExec
 
 Set xHttp = createobject("MSXML2.ServerXMLHTTP")
